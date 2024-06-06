@@ -11,7 +11,6 @@ Thanks to Tailwind I managed to code this from 0 to working in little more than 
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
 
@@ -27,7 +26,7 @@ This was my first project using Tailwind CSS. Utility and Mobile First CSS was a
 ### Screenshot
 
 <div align="center">
-<img alt="Landing page" src="https://github.com/Kielx/Sunnyside/blob/screenshots/screenshots/SunnysideSS.png?raw=true" width="400" />
+<img alt="Landing page" src="https://github.com/CASANOVA660/Sunnyside/blob/screenshots/screenshots/SunnysideSS.png?raw=true" width="400" />
 </div>
 
 ### Built with
@@ -45,8 +44,7 @@ This was a rapid project so I could showcase something with cool colors and good
 
 ## Author
 
-- Website - [Chris Pantak](https://kielx-portfolio.netlify.app/)
-- Frontend Mentor - [@Kielx](https://www.frontendmentor.io/profile/Kielx)
+Mohamed amin bouali
 
 ## Acknowledgments
 
