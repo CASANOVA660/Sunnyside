@@ -23,12 +23,6 @@ I decided that my portfolio of projects is lacking something good-looking and we
 
 This was my first project using Tailwind CSS. Utility and Mobile First CSS was a challenge itself. Nevertheless, the experience was really good and allowed me to create this project in a little more than 24 hours.
 
-### Screenshot
-
-<div align="center">
-<img alt="Landing page" src="https://github.com/CASANOVA660/Sunnyside/blob/screenshots/screenshots/SunnysideSS.png?raw=true" width="400" />
-</div>
-
 ### Built with
 
 - Semantic HTML5 markup
